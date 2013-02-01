@@ -1,0 +1,1615 @@
+{"damage":{
+	"questions":[
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765711711",
+						"text":"Direct contact met Pieter Assitance: 076-571 17 11"
+					}
+				],
+				"text":"Bij pech of schade kunt u altijd rechtstreeks contact opnemen met Alphabet Assistance, de 24-uurs alarmcentrale. U kunt hiervoor ook gebruikmaken van de praatpalen langs de snelweg.\n\nIn het algemeen ontvangt u hulp wanneer de auto, met gekoppelde aanhanger of caravan (binnen het dekkingsgebied van de groene kaart) uitvalt of wanneer de bestuurder de reis niet kan voortzetten als gevolg van een ongeval."
+			},
+			"title":"Pieter onderweg",
+			"text":"Met wie kan ik contact opnemen bij pech onderweg of bij schade?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.mijnschademelding.nl/",
+						"text":"Meld een schade online"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Een ongeluk zit in een klein hoekje maar gelukkig kunt u snel en eenvoudig de schade melden via internet. Nadat u de schade heeft gemeld, wordt  u doorverwezen naar een schadehersteller bij u in de buurt. Op basis van uw melding wordt u geÃ¯nformeerd of het daarnaast ook noodzakelijk is om nog een schade-aangifteformulier in te vullen. Voor een snelle afwikkeling is het belangrijk dat u binnen 24 uur de schade heeft gemeld.\n\nU kunt het ingevulde schadeformulier  versturen naar:\n\nAlphabet Damage Frontoffice\nPostbus 6890\n4802 HW BREDA"
+			},
+			"title":"Schade",
+			"text":"Ik heb schade aan mijn auto, wat nu?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					},
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					}
+				],
+				"text":"Een reparatie of vervangen van een autoruit kunt u direct regelen bij een ruitspecialist via het berijderservicenummer.  Zij bieden het voordeel dat zij de werkzaamheden op een  door u aangegeven locatie kunnen uitvoeren. \n\nU kunt de reparatie van uw autoruit ook combineren met het onderhoud aan uw auto bij de merkdealer, of het nu voor het repareren van een putje is of het plaatsen van een nieuwe ruit."
+			},
+			"title":"Ruitservice",
+			"text":"Waar kan ik schade aan mijn (voor)ruit laten repareren?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"De reparatie van kleine schades zoals verloren wieldoppen, een door steenslag vernielde koplamp of een kapot buitenspiegelglas kunt bij uw dealer laten herstellen. U kunt deze reparatie eventueel combineren met een onderhoudsbeurt."
+			},
+			"title":"Kleine schade",
+			"text":"Moet een kleine schade ook gemeld worden?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/informatie-materiaal/inleverprocedure/innameprotocol/view?download=1",
+						"text":"Download het innameprotocol"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Alvast ter voorbereiding en informatie kunt u ons innameprotocoldownloaden, zodat u zelf ook op de hoogte bent van de verschillende soorten schade (indien van toepassing) welke tot gebruikersschade horen en welke niet. (gebruikersschade wordt namelijk achteraf niet extra in rekening gebracht)."
+			},
+			"title":"Inname schade",
+			"text":"Ik heb, ongemelde, schade aan mijn leaseauto. Kan ik deze toch inleveren?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/klachten/klacht-indienen",
+						"text":"Dien een klacht in"
+					},
+					{
+						"type":"mail",
+						"value":"klantenservice@alphabetcarlease.nl",
+						"text":"Dien een klacht in via mail"
+					},
+					{
+						"type":"tel",
+						"value":"0765793200",
+						"text":"Direct contact met Alphabet: 076-579 32 00"
+					}
+				],
+				"text":"U kunt uw klacht op drie manieren indienen:\n\n1. Via internet \n2. Via uw eigen contactpersoon bij Alphabet\n3. Schriftelijk: wij verzoeken u vriendelijk uw complete adresgegevens te vermelden, alsmede een omschrijving van de klacht en de wijze waarop u antwoord wenst.\n\nWij streven ernaar om u, vanaf het moment van ontvangst van uw klacht, uiterlijk binnen Ã©Ã©n werkdag te informeren over de oplossing. Mocht door omstandigheden de afwikkeling langer in beslag nemen, dan wordt u daar uiteraard over geÃ¯nformeerd."
+			},
+			"title":"Klachten",
+			"text":"Ik heb een klacht over de dienstverlening van Alphabet, waar kan ik terecht?"
+		}
+	],
+	"title":"Schade"
+}, "lease":{
+	"questions":[
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"https://fleetagent.alphabet.com",
+						"text":"Ga naar Fleet Agent"
+					},
+					{
+						"type":"mail",
+						"value":"info@alphabetcarlease.nl",
+						"text":"Verstuur adreswijziging via mail"
+					}
+				],
+				"text":"Bij verhuizing vragen wij u vriendelijk ons zo spoedig mogelijk hiervan schriftelijk op de hoogte te brengen per mail. In Fleet Agent kunt u dit online wijzigen.\n\nU kunt ook een mail naar ons sturen, vermeldt in dat geval svp wel het kenteken van uw leaseauto."
+			},
+			"title":"Adreswijziging",
+			"text":"Hoe geef ik een adreswijziging door?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.mtc.nl/Pages/inloggen/inloggen-e-flex-beheer-module-bestuurders.html",
+						"text":"Ga naar e-Flex"
+					}
+				],
+				"text":"Voor het declareren van voorgeschoten tankpasbetalingen kunt u gebruik maken van e-Flex, een handige gratis online service van MTC. U krijgt gegarandeerd binnen 5 werkdagen uw geld terug.\n\nLet op: mocht u toch de voorkeur geven aan handmatig indienen van declaraties, dan kunt u het brandstofdeclaratieformulier gebruiken. Uw werkgever kan hiervoor echter een bedrag aan administratiekosten in rekening brengen. Informeer daarom eerst bij de wagenparkbeheerder binnen uw bedrijf."
+			},
+			"title":"Brandstofdeclaratie",
+			"text":"Hoe kan ik zelf betaalde brandstof declareren?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet: 076-579 38 00"
+					}
+				],
+				"text":"Alphabet heeft er geen bezwaar tegen als u de auto laat gebruiken door uw collegaâ€™s, gezinsleden of uw partner, mits zij in het bezit zijn van een geldig rijbewijs conform de Nederlandse wetgeving.\n\nWij raden u wel aan hiervoor eerst goedkeuring te vragen aan uw werkgever. Uw leaseauto mag niet gebruikt worden voor onder andere rijlessen, wedstrijden of behendigheidsritten. In deze gevallen is de auto niet verzekerd."
+			},
+			"title":"Gebruik door derden",
+			"text":"Wie mag er in mijn leaseauto rijden?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"mail",
+						"value":"info@alphabetcarlease.nl",
+						"text":"Verstuur inlever notificatie via mail"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet: 076-579 38 00"
+					},
+					{
+						"type":"search",
+						"value":"inleveradres",
+						"text":"Zoek een inleveradres"
+					}
+				],
+				"text":"Als u uw leaseauto gaat inleveren dient u Alphabet telefonisch of per e-mail te informeren over het inleveradres.\n\nWanneer u de auto inlevert bij de merkdealer, tekent u met de dealer niet voor de staat van de auto, maar uitsluitend voor overdracht, datum en kilometerstand.Vervolgens wordt de auto naar een centrale locatie in Breda vervoerd en vindt de inname van het voertuig plaats.\n\nBij Alphabet is het mogelijk om aan het einde van het leasecontract de leaseauto in te leveren bij een innamepunt of bij Ã©Ã©n van onze AlphaRent vestigingen. De innameprocedure bij de innamepunten en/of AlphaRent vestigingen geeft u de mogelijkheid om te tekenen voor de staat van de ingeleverde auto. U gebruikt hiervoor het innameformulier in tweevoud. \n\nHet innameformulier kunt u downloaden op alphabet.com/nl"
+			},
+			"title":"Inleverprocedure",
+			"text":"Waar kan ik mijn auto inleveren aan het einde van het leasecontract?"
+		},
+		{
+			"answerOverrides":{
+				"Seat":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Skoda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Renault":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Mazda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Volkswagen":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Citroen":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"BMW":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Volvo":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Honda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Dacia":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Mercedes":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Toyota":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Saab":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Hyundai":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Ford":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Audi":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Mini":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Peugeot":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Opel":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				}
+			},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.winterbandenservice.nl/webapp/wibaplanner_app/XmlAppServlet;jsessionid=FB12EC7DED7E593FAA2885A3BBFB6087?action=ProcessSelection&REDIRECT_TEMPLATE=ShowCar",
+						"text":"Maak online een afspraak met Kwik-Fit"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					},
+					{
+						"type":"mail",
+						"value":"Bandentransport@alphabetcarlease.nl",
+						"text":"Mail Alphabet"
+					}
+				],
+				"text":"Indien winterbanden zijn opgenomen in het leasecontract, dient u uw leaseauto in te leveren op zomerbanden. Voor een eventuele bandenwisseling adviseren wij u tijdig een afspraak te maken bij uw eigen dealer.\n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+			},
+			"title":"Winterbanden bij einde contract",
+			"text":"Ik lever mijn auto in terwijl er winterbanden op gemonteerd zijn. Kan dat?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/mijn-leaseauto/inleverprocedure",
+						"text":"Informatie"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Om, vaak onnodige, kosten zoveel mogelijk te voorkomen, is onze innameprocedure uitgebreid met de introductie van de inname-envelop. De inname-envelop is een handig en praktisch hulpmiddel waarmee de berijder aan de hand van een checklist geattendeerd wordt op de belangrijkste zaken rondom inlevering van de leaseauto. Ongeveer twee weken voorafgaand aan de inlevering ontvangt u deze envelop. De envelop inclusief inhoud kan op het moment van inlevering in de auto worden achtergelaten.\n\nVergeet vooral niet uw privÃ©-spullen uit de auto te halen!\n"
+			},
+			"title":"Inname envelop",
+			"text":"Hoe weet ik of ik alle bescheiden heb ingeleverd"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/informatie-materiaal/inleverprocedure/innameprotocol/view?download=1",
+						"text":"Download het innameprotocol"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Alvast ter voorbereiding en informatie kunt u ons innameprotocoldownloaden, zodat u zelf ook op de hoogte bent van de verschillende soorten schade (indien van toepassing) welke tot gebruikersschade horen en welke niet. (gebruikersschade wordt namelijk achteraf niet extra in rekening gebracht)."
+			},
+			"title":"Inname schade",
+			"text":"Ik heb, ongemelde, schade aan mijn leaseauto. Kan ik deze toch inleveren?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/kilometerregistratie",
+						"text":"Download de kilometer registratie app"
+					},
+					{
+						"type":"tel",
+						"value":"0765793200",
+						"text":"Direct contact met Alphabet: 076-579 32 00"
+					}
+				],
+				"text":"Ja, Alphabet heeft een kilometer registratie app. De app werkt volkomen intuÃ¯tief, zodat fouten of vergissingen zo goed als uitgesloten zijn. Na het invoeren van de bestemming (automatisch op basis van GPS of handmatig) hoeft er enkel op \"Start\" te worden gedrukt en aan het einde van de rit op \"Stop\". De kilometerstand wordt vervolgens automatisch geregistreerd.\n"
+			},
+			"title":"Kilometer registratie",
+			"text":"Is er ook een app beschikbaar om mijn rithistorie vast te leggen?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/klachten/klacht-indienen",
+						"text":"Dien een klacht in"
+					},
+					{
+						"type":"mail",
+						"value":"klantenservice@alphabetcarlease.nl",
+						"text":"Dien een klacht in via mail"
+					},
+					{
+						"type":"tel",
+						"value":"0765793200",
+						"text":"Direct contact met Alphabet: 076-579 32 00"
+					}
+				],
+				"text":"U kunt uw klacht op drie manieren indienen:\n\n1. Via internet \n2. Via uw eigen contactpersoon bij Alphabet\n3. Schriftelijk: wij verzoeken u vriendelijk uw complete adresgegevens te vermelden, alsmede een omschrijving van de klacht en de wijze waarop u antwoord wenst.\n\nWij streven ernaar om u, vanaf het moment van ontvangst van uw klacht, uiterlijk binnen Ã©Ã©n werkdag te informeren over de oplossing. Mocht door omstandigheden de afwikkeling langer in beslag nemen, dan wordt u daar uiteraard over geÃ¯nformeerd."
+			},
+			"title":"Klachten",
+			"text":"Ik heb een klacht over de dienstverlening van Alphabet, waar kan ik terecht?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/met-de-leaseauto-op-vakantie",
+						"text":"Ga naar de speciale vakantie pagina"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Op onze internetsite alphabet.com/nl hebben wij een volledige pagina ingericht voor u met alle ins- en outs over het gebruik van de leaseauto op vakantie"
+			},
+			"title":"Op vakantie",
+			"text":"Moet ik ergens nog speciaal rekening mee houden?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Gefeliciteerd met uw nieuwe auto.\n\nHet doet ons plezier om u, opnieuw, als klant bij Alphabet te mogen begroeten. \n\nDe ruiten van uw auto zijn voorzien van een kentekengravering. Wij verzoeken u vriendelijk te controleren of dit door de dealer is uitgevoerd. Daarnaast heeft u samen met uw auto het kentekenbewijs Deel IA - Voertuigbewijs (oude deel I)  en deel IB - Tenaamstellingsbewijs (oude deel II) ontvangen.\n\nVan Alphabet ontvangt u binnenkort het berijdersboekje met de Service- en/of Brandstofpas, een schadeaangifteformulier met antwoordenvelop en indien van toepassing de groene kaart.\n\nWij wensen u een goede reis toe in uw Alphabet-auto."
+			},
+			"title":"Nieuwe auto",
+			"text":"Moet ik ergens nog speciaal rekening mee houden?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"mail",
+						"value":"koopjeleaseauto@alphabetcarlease.nl",
+						"text":"Vraag een overnameprijs aan"
+					},
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/mijn-leaseauto/koop-je-leaseauto",
+						"text":"Informatie"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Dat kan. Vraag nu de overnameprijs van uw huidige leaseauto aan* door ons te mailen.\n\nVermeld daarbij de volgende gegevens:\nhet kenteken \nde geschatte eindkilometerstand \nuw telefoonnummer\n\nU ontvangt dan zo snel mogelijk een zeer aantrekkelijk aanbod van ons!\n\n* Maximaal drie maanden voor expiratiedatum leasecontract. Mogelijk zijn met uw werkgever afspraken gemaakt waardoor de overnameprijs niet direct aan u gecommuniceerd mag worden."
+			},
+			"title":"Overname Leaseauto",
+			"text":"Kan ik mijn huidige leaseauto overnemen?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765711711",
+						"text":"Direct contact met Alphabet Assitance: 076-571 17 11"
+					}
+				],
+				"text":"Bij pech of schade kunt u altijd rechtstreeks contact opnemen met Alphabet Assistance, de 24-uurs alarmcentrale. U kunt hiervoor ook gebruikmaken van de praatpalen langs de snelweg.\n\nIn het algemeen ontvangt u hulp wanneer de auto, met gekoppelde aanhanger of caravan (binnen het dekkingsgebied van de groene kaart) uitvalt of wanneer de bestuurder de reis niet kan voortzetten als gevolg van een ongeval."
+			},
+			"title":"Pech onderweg",
+			"text":"Met wie kan ik contact opnemen bij pech onderweg?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Gaat u een land in Oost- Europa of Noord-Afrika bezoeken met uw leaseauto, dan raden wij u aan te zorgen voor een machtiging om in een auto te rijden die op naam staat van een derde. De landen waarvoor de groene kaart geldt staan vermeld op de groene kaart zelf. "
+			},
+			"title":"Rijden in het buitenland",
+			"text":"Kan ik zonder meer met mijn auto naar het buitenland?"
+		}
+	],
+	"title":"Lease"
+}, "fines":{
+	"questions":[
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"https://fleetagent.alphabet.com",
+						"text":"Ga naar Fleet Agent"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet: 076-579 38 00"
+					}
+				],
+				"text":"Bij een verkeersovertreding ontvangt Alphabet de bekeuring. Deze sturen wij vervolgens naar u of uw werkgever met het verzoek tot betaling, tenzij anders overeengekomen.\n\nAfhankelijk van de afspraken met uw werkgever ontvangt u een bekeuring per post of een e-mail met een link naar de digitale bekeuring. In een volgende versie van deze app willen wij dit eveneens via deze app aanbieden."
+			},
+			"title":"Bekeuring ontvangen",
+			"text":"Hoe ontvang ik een bekeuring?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"https://fleetagent.alphabet.com",
+						"text":"Ga naar Fleet Agent"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet: 076-579 38 00"
+					}
+				],
+				"text":"Een bekeuring kunt u op normale wijze aan CJIB, gemeente of buitenlandse instantie betalen.\n\nIn geval van een digitale bekeuring  heeft u als klant van Alphabet de mogelijkheid om bekeuringen van het CJIB (Centraal Justitieel Incassobureau) direct online via iDEAL te betalen.\n\nNog een voordeel van digitale bekeuringen is dat er geen administratiekosten vanuit Alphabet meer in rekening worden gebracht voor het doorsturen van een bekeuring."
+			},
+			"title":"Bekeuring betalen",
+			"text":"Hoe betaal ik een bekeuring?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"https://fleetagent.alphabet.com",
+						"text":"Ga naar Fleet Agent"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet: 076-579 38 00"
+					}
+				],
+				"text":"Bij uitblijven van betaling na de eerste aanmaning voldoet Alphabet standaard een tweede aanmaning, tenzij anders overeengekomen. Hiermee voorkomen we dat de kosten verder oplopen. De kosten van de bekeuring, verhoogd met aanmaning- en administratiekosten, zullen vervolgens worden doorbelast aan uw werkgever."
+			},
+			"title":"Bekeuring aanmaning",
+			"text":"Wat gebeurd er als de bekeuring niet op tijd betaald wordt?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.anwb.nl/rechtshulp,/in-het-verkeer/verkeersovertreding/Stappenplan-bezwaar-bij-verkeersovertredingen.html",
+						"text":"Ga naar de ANWB site"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet: 076-579 38 00"
+					}
+				],
+				"text":"Op de site van de ANWB staat uitgebreid omschreven hoe u bezwaar kunt maken tegen een verkeersboete. Daarnaast zijn verschillende voorbeeld brieven te downloaden die u kunnen helpen bij het opstellen van een bezwaar."
+			},
+			"title":"Bekeuring bezwaar",
+			"text":"Bezwaar maken tegen een verkeersboete?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/klachten/klacht-indienen",
+						"text":"Dien een klacht in"
+					},
+					{
+						"type":"mail",
+						"value":"klantenservice@alphabetcarlease.nl",
+						"text":"Dien een klacht in via mail"
+					},
+					{
+						"type":"tel",
+						"value":"0765793200",
+						"text":"Direct contact met Alphabet: 076-579 32 00"
+					}
+				],
+				"text":"U kunt uw klacht op drie manieren indienen:\n\n1. Via internet \n2. Via uw eigen contactpersoon bij Alphabet\n3. Schriftelijk: wij verzoeken u vriendelijk uw complete adresgegevens te vermelden, alsmede een omschrijving van de klacht en de wijze waarop u antwoord wenst.\n\nWij streven ernaar om u, vanaf het moment van ontvangst van uw klacht, uiterlijk binnen Ã©Ã©n werkdag te informeren over de oplossing. Mocht door omstandigheden de afwikkeling langer in beslag nemen, dan wordt u daar uiteraard over geÃ¯nformeerd."
+			},
+			"title":"Klachten",
+			"text":"Ik heb een klacht over de dienstverlening van Alphabet, waar kan ik terecht?"
+		}
+	],
+	"title":"Bekeuringen"
+}, "maintenance":{
+	"questions":[
+		{
+			"answerOverrides":{
+				"Seat":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Skoda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Renault":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Mazda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Volkswagen":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Citroen":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"BMW":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Volvo":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Honda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Dacia":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Mercedes":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Toyota":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Saab":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Hyundai":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Ford":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Audi":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Mini":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Peugeot":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				},
+				"Opel":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						},
+						{
+							"type":"mail",
+							"value":"Bandentransport@alphabetcarlease.nl",
+							"text":"Mail Alphabet"
+						}
+					],
+					"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nU kunt zelf, bij uw eigen dealer, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober. \n\nLet op: indien uw banden opgeslagen liggen bij Kwik-Fit of Profile Tyrecenter kunt u pas gebruik maken van de mogelijkheden bij uw dealer bij uw volgende leasecontract. Bij twijfel kunt u dit bij ons opvragen door een e-mail te sturen naar Bandentransport@alphabetcarlease.nl"
+				}
+			},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/mijn-leaseauto/winterbanden/uw-bandenwissel",
+						"text":"Maak online een afspraak"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					},
+					{
+						"type":"mail",
+						"value":"Bandentransport@alphabetcarlease.nl",
+						"text":"Mail Alphabet"
+					}
+				],
+				"text":"Wanneer de gemiddelde temperatuur onder 7 graden celcius daalt, is het veiliger om op winterbanden te rijden. \n\nHoudt u er rekening mee dat bij een eventuele reis naar een wintersportbestemming sneeuwkettingen verplicht kunnen zijn, ondanks dat onder de auto winterbanden zijn gemonteerd.\n\nLiggen uw winterbanden bij Kwik-Fit of Profile Tyrecenter? U kunt zelf, online, een afspraak inplannen voor het wisselen van uw banden. Het monteren van uw winterbanden is mogelijk vanaf 1 oktober."
+			},
+			"title":"Winterbanden",
+			"text":"Wanneer en waar moet ik winterbanden regelen?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Om ervoor te zorgen dat u met uw auto zorgeloos op vakantie kunt, bieden wij u de gratis 10 puntencheck.\n\nGa langs bij uw dealer om uw auto op 10 vitale onderdelen te controleren: van verlichting en remmen tot vloeistofniveaus en banden. Kortom, met Alphabet gaat u zorgeloos op vakantie."
+			},
+			"title":"Zomer- of wintercheck ",
+			"text":"Kan ik mijn auto aanbieden voor een gratis 10-punten check, zonder afspraak?"
+		},
+		{
+			"answerOverrides":{
+				"Landrover":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Landrover hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Smart":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Smart hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Seat":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Ja, bij Seat kunt u gebruik maken van het brengen en halen van de berijder / halen en brengen van de leaseauto. Locatie naar keuze van de berijder met maximale reisduur 15 minuten. Deze service geldt alleen bij werkzaamheden die langer duren dan 2 uur, binnen de openingstijden van de dealer.\n\nLet op: Halen en brengen van de leaseauto is NIET gratis!"
+				},
+				"Nissan":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Nissan hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Subaru":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Subaru hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"BMW":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Ja, bij BMW kunt u gebruik maken van het brengen en halen van de berijder / halen en brengen van de leaseauto. Locatie naar keuze van de berijder met maximale reisduur 15 minuten. Deze service geldt alleen bij werkzaamheden die langer duren dan 2 uur, binnen de openingstijden van de dealer.\n\nLet op: Halen en brengen van de leaseauto is NIET gratis!"
+				},
+				"Mitsubishi":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Mitsubishi hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Jaguar":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Jaguar hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Skoda":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Ja, bij Skoda kunt u gebruik maken van het brengen en halen van de berijder / halen en brengen van de leaseauto. Locatie naar keuze van de berijder met maximale reisduur 15 minuten. Deze service geldt alleen bij werkzaamheden die langer duren dan 2 uur, binnen de openingstijden van de dealer.\n\nLet op: Halen en brengen van de leaseauto is NIET gratis!"
+				},
+				"Chrysler":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Chrysler hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Chevrolet":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Chevrolet hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Kia":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Kia hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Mini":{
+					"actions":[
+						{
+							"type":"search",
+							"value":"dealer",
+							"text":"Zoek een dealer"
+						},
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Ja, bij Mini kunt u gebruik maken van het brengen en halen van de berijder / halen en brengen van de leaseauto. Locatie naar keuze van de berijder met maximale reisduur 15 minuten. Deze service geldt alleen bij werkzaamheden die langer duren dan 2 uur, binnen de openingstijden van de dealer.\n\nLet op: Halen en brengen van de leaseauto is NIET gratis!"
+				},
+				"Jeep":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Jeep hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				},
+				"Dodge":{
+					"actions":[
+						{
+							"type":"tel",
+							"value":"0765793800",
+							"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+						}
+					],
+					"text":"Met Dodge hebben we op dit moment geen afspraken kunnen maken over het, gratis, halen en brengen tijdens onderhoud.\n\nLet op: wanneer toch gebruikt wordt gemaakt van een haal- en/of brengservice zullen de eventuele kosten direct door de berijder moeten worden voldaan aan de  betreffende dealer."
+				}
+			},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Berijders die hun leaseauto aanbieden voor onderhoud en / of reparatie, kunnen gebruik maken van een gratis haal- en brengservice via de dealer. Bij het maken van een afspraak zal aangeven moeten worden of hij / zij hiervan gebruik gaat maken. Deze service geldt alleen bij werkzaamheden die langer duren dan 2 uur, binnen de openingstijden van de dealer met een maximale reistijd van 15 minuten en binnen een straal van 15 kilometer."
+			},
+			"title":"Haal- en brengservice",
+			"text":"Kan ik bij regulier onderhoud gebruik maken van een gratis haal- en brengservice via de dealer"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"external",
+						"value":"http://www.nl.alphabet.com/driver-area-1/klachten/klacht-indienen",
+						"text":"Dien een klacht in"
+					},
+					{
+						"type":"mail",
+						"value":"klantenservice@alphabetcarlease.nl",
+						"text":"Dien een klacht in via mail"
+					},
+					{
+						"type":"tel",
+						"value":"0765793200",
+						"text":"Direct contact met Alphabet: 076-579 32 00"
+					}
+				],
+				"text":"U kunt uw klacht op drie manieren indienen:\n\n1. Via internet \n2. Via uw eigen contactpersoon bij Alphabet\n3. Schriftelijk: wij verzoeken u vriendelijk uw complete adresgegevens te vermelden, alsmede een omschrijving van de klacht en de wijze waarop u antwoord wenst.\n\nWij streven ernaar om u, vanaf het moment van ontvangst van uw klacht, uiterlijk binnen Ã©Ã©n werkdag te informeren over de oplossing. Mocht door omstandigheden de afwikkeling langer in beslag nemen, dan wordt u daar uiteraard over geÃ¯nformeerd."
+			},
+			"title":"Klachten",
+			"text":"Ik heb een klacht over de dienstverlening van Alphabet, waar kan ik terecht?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					},
+					{
+						"type":"tel",
+						"value":"0765711711",
+						"text":"Direct contact met Alphabet Assitance: 076-571 17 11"
+					}
+				],
+				"text":"Afhankelijk van de uitvoering van uw auto heeft u in het geval van een lekke band een volwaardig reservewiel, een thuiskomer (een tijdelijk, kleiner formaat band warmee u naar de dichtbijzijnde reparareur kunt rijden en waarmee u  niet harder mag rijden dan de voorgeschreven snelheid) of een reparatieset.\n\nVoor het opleggen van een reservewiel of het gebruik van de reparatieset adviseren wij u om het instructieboekje te raadplegen. Indien het omwisselen of terplaatse repareren van de band niet mogelijk blijkt te zijn, dan kunt u contact opnemen met Alphabet Assistance\n\nNa wissel of reparatie van de band dient u zich zo snel mogelijk te melden bij uw dealer, Kwik Fit of Profile Tyercenter. Zij zullen beoordelen of de defecte band hersteld kan worden of dat deze vervangen moet worden. Bij vervanging van de band zal het restprofiel bij u in rekening gebracht worden."
+			},
+			"title":"Lekke band",
+			"text":"Ik heb een lekke band, wat doe ik?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"tel",
+						"value":"0765711711",
+						"text":"Direct contact met Alphabet Assitance: 076-571 17 11"
+					}
+				],
+				"text":"Bij pech of schade kunt u altijd rechtstreeks contact opnemen met Alphabet Assistance, de 24-uurs alarmcentrale. U kunt hiervoor ook gebruikmaken van de praatpalen langs de snelweg.\n\nIn het algemeen ontvangt u hulp wanneer de auto, met gekoppelde aanhanger of caravan (binnen het dekkingsgebied van de groene kaart) uitvalt of wanneer de bestuurder de reis niet kan voortzetten als gevolg van een ongeval."
+			},
+			"title":"Pech onderweg",
+			"text":"Met wie kan ik contact opnemen bij pech onderweg?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Als uw APK afloopt dient u een afspraak te maken bij uw dealer om de APK te laten uitvoeren."
+			},
+			"title":"APK",
+			"text":"Wat moet ik doen als mijn APK afloopt?"
+		},
+		{
+			"answerOverrides":{},
+			"defaultAnswer":{
+				"actions":[
+					{
+						"type":"search",
+						"value":"dealer",
+						"text":"Zoek een dealer"
+					},
+					{
+						"type":"tel",
+						"value":"0765793800",
+						"text":"Direct contact met Alphabet berijderservice: 076-579 38 00"
+					}
+				],
+				"text":"Het â€˜gedoeâ€™ bij reparatie, onderhouden en het vervangen van (winter en zomer)banden heeft Alphabet tot een minimum teruggebracht, want een van de voordelen van leasing is immers gemak.\n \nOns â€˜One Stop Shoppingâ€™- concept ligt aan de basis van deze gedachte: het gemak van Ã©Ã©n adres, de  vertrouwde dealer, voor alle werkzaamheden aan uw leaseauto.\n\nVoor onderhoud aan uw auto hebben wij met iedere dealer in Nederland afgesproken dat u voorrang heeft bij het maken van een  afspraak (max. 5 werkdagen). Het is wel van belang dat u duidelijk aangeeft dat het een auto van Alphabet betreft."
+			},
+			"title":"Afspraak inplannen",
+			"text":"Hoe lang voor gepland onderhoud moet ik een afspraak bij een dealer maken?"
+		}
+	],
+	"title":"Onderhoud"
+}}

@@ -1,0 +1,13 @@
+<ul class="accordion" ng-init="init()">
+    <h1>FAQ</h1>
+    <li class="{{isActive(name)}}"  ng-repeat="(name,mainitem) in model.faqResult">
+        <div class="title" ng-click="selectItem(name)">
+            <h5>{{mainitem.title}}</h5>
+        </div>
+        <div class="panel content">
+            <div ng-repeat="question in mainitem.questions"><strong><a href="#/faqitem/{{name}}/{{$index}}">{{question.title}}</a></strong>
+                <p ng-class-odd="'odd'" ng-class-even="'even'">{{question.text}}</p>
+            </div>
+        </div>
+    </li>
+</ul>

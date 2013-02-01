@@ -1,0 +1,11 @@
+<h1>Detail</h1>
+Cat : {{params.cat}}<br>
+IndexId : {{params.indexId}}<br>
+<div class="panel callout radius">Info:{{getCurrent().defaultAnswer.text}}</div>
+<ul>
+    <li class="panel" ng-repeat="action in getCurrent().defaultAnswer.actions" >
+        Text:{{action.text}} <br>
+        Type:{{action.type}} <br>
+        Value:{{action.value}} <br>
+    </li>
+</ul>
